@@ -359,7 +359,7 @@ hi TabLineSel       ctermfg=254             ctermbg=236             cterm=bold
 " Visual
 " ------
 " visual mode selection
-hi Visual           guifg=NONE              guibg=#B2A36D
+hi Visual           guifg=NONE              guibg=#CFE4FF
 hi Visual           ctermfg=NONE            ctermbg=24
 
 " visual mode selection when vim is not owning the selection (x11 only)
