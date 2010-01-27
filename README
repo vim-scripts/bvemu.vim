@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2947
+
+This is a dark scheme and the preview is available at http://bvemu.blogspot.com/2010/01/preview-of-files-with-colorschemebvemu.html 
+
+Comments are welcomed
+
+Just place the bvemu.vim files in your .vim/colors/ directory 
+and in your .vimrc  set as following 
+colorscheme bvemu
